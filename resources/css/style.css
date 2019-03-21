@@ -23,7 +23,7 @@ nav {
 }
 
 .column.large {
-	
+
 	width: 630px;
 
 }
@@ -35,4 +35,55 @@ nav {
 
 .column.small {
 	width: 240px;
+}
+p .narative {
+	font-family: georgia;
+	font-size: 17px;
+	color: black;
+}
+
+.image-content {
+	font-family: Georgia;
+  	font-weight: bold;
+  	font-size: 40px;
+	color: white;
+	display: flex;
+	background-image: url(../images/drink.png);
+}
+
+.fall {
+	font-family: Georgia;
+  	font-weight: bold;
+  	font-size: 30px;
+	color: white;
+	display: flex;
+	background-image: url(../images/img-story-2.png);
+}
+
+.hipster {
+	font-family: Georgia;
+  	font-weight: bold;
+  	font-size: 30px;
+	color: white;
+	display: flex;
+	background-image: url(../images/hipster.png);
+}
+
+.cat {
+	font-family: Georgia;
+  	font-weight: bold;
+  	font-size: 30px;
+	color: white;
+	display: flex;
+	background-image: url(../images/img-story-1.png);
+}
+
+.story {
+	display: flex;
+	flex-flow: horizonta
+}
+
+.text-content {
+	display: flex;
+	
 }
